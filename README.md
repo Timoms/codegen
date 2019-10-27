@@ -18,10 +18,6 @@ There is no real "default" set of commands to use.
 This generator is only used to demonstrate the basics of a codegenerator.
 I've tried to visualize used registers, might need some work to be done but in general it should work with some tweaks.
 
-## Switch to another file
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
 ## Can I use this project?
 
 Sure, go ahead and make it yours.
