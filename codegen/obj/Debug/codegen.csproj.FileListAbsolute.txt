@@ -1,0 +1,14 @@
+Z:\VisualStudio\codegen\codegen\codegen\bin\Debug\codegen.exe.config
+Z:\VisualStudio\codegen\codegen\codegen\bin\Debug\codegen.exe
+Z:\VisualStudio\codegen\codegen\codegen\bin\Debug\codegen.pdb
+Z:\VisualStudio\codegen\codegen\codegen\obj\Debug\codegen.csproj.CoreCompileInputs.cache
+Z:\VisualStudio\codegen\codegen\codegen\obj\Debug\codegen.exe
+Z:\VisualStudio\codegen\codegen\codegen\obj\Debug\codegen.pdb
+Z:\VisualStudio\codegen\codegen\codegen\obj\Debug\codegen.csprojAssemblyReference.cache
+C:\Users\Timo\Coding\C#_Codecompiler\codegen\codegen\bin\Debug\codegen.exe.config
+C:\Users\Timo\Coding\C#_Codecompiler\codegen\codegen\bin\Debug\codegen.exe
+C:\Users\Timo\Coding\C#_Codecompiler\codegen\codegen\bin\Debug\codegen.pdb
+C:\Users\Timo\Coding\C#_Codecompiler\codegen\codegen\obj\Debug\codegen.csprojAssemblyReference.cache
+C:\Users\Timo\Coding\C#_Codecompiler\codegen\codegen\obj\Debug\codegen.csproj.CoreCompileInputs.cache
+C:\Users\Timo\Coding\C#_Codecompiler\codegen\codegen\obj\Debug\codegen.exe
+C:\Users\Timo\Coding\C#_Codecompiler\codegen\codegen\obj\Debug\codegen.pdb
